@@ -1,26 +1,20 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Aircraft Takeoff/Landing tables DB assignment 1
+
+```
+Sources:
+
+http://www.w3schools.com/json/default.asp
+
+https://github.com/kashJul2214/Quiz-Program-A3/blob/master/Assignment3/students.json
+
+http://stackoverflow.com/questions/22209117/create-table-from-json-data-with-angularjs-and-ng-repeat
+
+https://github.com/zlsa/atc/issues/298
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com: ......
+git push -u origin master
+```
