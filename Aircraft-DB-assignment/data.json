@@ -487,15 +487,6 @@
     }
 }
 
-"Flap35":{
-        "landing":{
-            "weight": {
-                "18000KG":{
-                    "vapp": "---",
-                    "vref": "101",
-                    "vga": "---"
-                }
-
 {
     "Flaps5Landing" : {
         "weight" : {
@@ -618,7 +609,8 @@
                 { "Vapp" : "-", "Vref" : "116", "Vga" : "-" }]
         },
         "weight" : {
-            "28000Kg" : [ { "Vapp" : "-", "Vref" : "120", "Vga" : "-" }]
+            "28000Kg" : [ 
+                { "Vapp" : "-", "Vref" : "120", "Vga" : "-" }]
         },
         "weight" : {
             "29000Kg" : [
